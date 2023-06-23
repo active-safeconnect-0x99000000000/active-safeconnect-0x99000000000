@@ -1,4 +1,4 @@
-- 👋 Hi,There is nothing to find ...
+👋 Hi,
 
 <!---
 active-safeconnect-0x99000000000/active-safeconnect-0x99000000000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
